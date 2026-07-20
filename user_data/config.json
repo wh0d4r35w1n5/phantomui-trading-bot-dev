@@ -1,0 +1,14 @@
+{
+  "max_open_trades": 10,
+  "stake_currency": "USDT",
+  "stake_amount": 50,
+  "tradable_balance_ratio": 0.99,
+  "fiat_display_currency": "USD",
+  "dry_run": true,
+  "dry_run_wallet": 0,
+  "timeframe": "5m",
+  "exchange": {
+    "name": "binance",
+    "sandbox": true
+  }
+}
